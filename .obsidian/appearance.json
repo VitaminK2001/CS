@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "LXGW WenKai Mono",
+  "monospaceFontFamily": "LXGW WenKai Mono",
+  "baseFontSize": 21,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "LXGW WenKai Mono",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "custom-admonitions.53a526"
+  ]
+}

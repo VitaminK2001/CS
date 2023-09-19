@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "181fb78ddb2545d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c19f892c0d9c495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e090b1fd01350abf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2023-09-18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95178219f1f1ed37",
+    "type": "split",
+    "children": [
+      {
+        "id": "e048c95f775bc31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd7d04bbd6da216",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2163ea846102f5ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#小端大端编址",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7fc92e95684eb37",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "835681b811f1fd0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "f911e70a239e725c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4e305c9590731d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff26450a7fd4eb15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/2023-09-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bc289384b7cef2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/2023-09-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ee0e6308c9c6355",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dddbcafcc99a156c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/2023-09-18.md"
+              }
+            }
+          },
+          {
+            "id": "c0ab972ead1e0d7b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bef42f4bb12698f5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5ae3078bee21119",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "publish:发布更改": true,
+      "workspaces:管理工作区布局": true,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "e090b1fd01350abf",
+  "lastOpenFiles": [
+    "网络/计算机网络/网络层/移动IP.md",
+    "Diary/2023-09-18.md",
+    "网络/计算机网络/网络层/IP组播.md",
+    "网络/计算机网络/网络层/广播域.md",
+    "网络/计算机网络/网络层/路由.md",
+    "网络/计算机网络/网络层/子网.md",
+    "网络/计算机网络/网络层/路由汇聚.md",
+    "网络/计算机网络/网络层/路由器.md",
+    "attachments/Pasted image 20230917160732.png",
+    "attachments/Pasted image 20230917160725.png",
+    "attachments/Pasted image 20230917160526.png",
+    "attachments/Pasted image 20230917160518.png",
+    "网络/计算机网络/网络层/RIP.md",
+    "网络/计算机网络/网络层/NAT.md",
+    "网络/计算机网络/网络层/BGP.md",
+    "数据结构/Floyd算法.md",
+    "网络/计算机网络/网络层/源地址目的地址.md",
+    "attachments/Pasted image 20230917140051.png",
+    "attachments/Pasted image 20230917140040.png",
+    "attachments/Pasted image 20230917140034.png",
+    "attachments/Pasted image 20230917134844.png",
+    "网络/计算机网络/网络层/地址种类.md",
+    "attachments/Pasted image 20230917132240.png",
+    "attachments/Pasted image 20230917132235.png",
+    "网络/计算机网络/网络层/IPV6.md",
+    "网络/计算机网络/网络层/ICMP.md",
+    "网络/计算机网络/网络层/网络层题目.md",
+    "网络/计算机网络/计算机网络概述/题目.md",
+    "数学/高等数学/定积分/变积分限的函数问题.md",
+    "数学/高等数学/定积分/概念性质.md",
+    "硬件/计算机组成原理/第二章/算数移位.md",
+    "硬件/计算机组成原理/第二章/题目.md",
+    "硬件/计算机组成原理/第二章/溢出.md",
+    "硬件/计算机组成原理/第二章/补码.md",
+    "硬件/计算机组成原理/第二章/海明码.md",
+    "硬件/计算机组成原理/第二章/循环冗余校验码.md",
+    "attachments/操作系统",
+    "硬件/计算机组成原理/第二章",
+    "数学/高等数学/定积分",
+    "数学/高等数学/曲面曲线积分",
+    "数学/高等数学/中值定理",
+    "数学/高等数学/级数",
+    "数学/线性代数/未命名",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "attachments/高数",
+    "attachments/线性代数",
+    "数学/概率论"
+  ]
+}

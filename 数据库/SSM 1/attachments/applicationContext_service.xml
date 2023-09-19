@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context" xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/aop https://www.springframework.org/schema/aop/spring-aop.xsd">
+    <!--<import resource="classpath:applicationContext_dao.xml"></import>-->
+    <!--    设置业务逻辑层的包扫描器,目的是在指定的路径下,使用@Service注解的类,可以由Spring负责创建对象,并添加依赖，实现依赖注入IOC-->
+    <context:component-scan base-package="com.bjpowernode.service"></context:component-scan>
+    <!--    设置spring提供的事物管理器DataSourceTransactionManager-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+<!--        dataSource下所有的连接都被Spring提供的DataSourceTransactionManager的管理-->
+        <property name="dataSource" ref="dataSource"></property>
+    </bean>
+
+    <!--    添加事务的切面-->
+    <tx:advice id="myadvice" transaction-manager="transactionManager">
+        <tx:attributes>
+<!--            只读的事务不需要等锁，表锁，行锁，列锁，快速先执行-->
+            <tx:method name="*select*" read-only="true"/>
+            <tx:method name="*find*" read-only="true"/>
+            <tx:method name="*get*" read-only="true"/>
+            <tx:method name="*search*" read-only="true"/>
+<!--            写库操作，如果当前没有事务，就新建一个事务
+        这些事务是需要事务管理器的transactionManager，处理事务的回滚-->
+            <tx:method name="*insert*" propagation="REQUIRED"/>
+            <tx:method name="*save*" propagation="REQUIRED"/>
+            <tx:method name="*add*" propagation="REQUIRED"/>
+            <tx:method name="*delete*" propagation="REQUIRED"/>
+            <tx:method name="*remove*" propagation="REQUIRED"/>
+            <tx:method name="*clear*" propagation="REQUIRED"/>
+            <tx:method name="*update*" propagation="REQUIRED"/>
+            <tx:method name="*modify*" propagation="REQUIRED"/>
+            <tx:method name="*change*" propagation="REQUIRED"/>
+            <tx:method name="*set*" propagation="REQUIRED"/>
+<!--            * 其他情况，如果要求用事务就用，当前没有事务就不用
+                如果是在事务中执行的就用事务
+                DAO中的增删改查，可能包含增删改查
+                比如说下订单，需要改库存，然后在添加订单表中添加-->
+            <tx:method name="*" propagation="SUPPORTS"/>
+        </tx:attributes>
+    </tx:advice>
+
+    <!--    完成切面和切入点的织入-->
+    <aop:config>
+        <aop:pointcut id="mypointcut" expression="execution(* com.bjpowernode.service.*.*(..))"/>
+        <aop:advisor advice-ref="myadvice" pointcut-ref="mypointcut"></aop:advisor>
+    </aop:config>
+</beans>
