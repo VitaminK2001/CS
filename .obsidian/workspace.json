@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高等数学/证明不等式的两种方法.md",
+                "file": "数学/高等数学/定积分/周期函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/高等数学/证明不等式的两种方法.md",
+                "file": "数学/高等数学/定积分/周期函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/高等数学/证明不等式的两种方法.md",
+                "file": "数学/高等数学/定积分/周期函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高等数学/证明不等式的两种方法.md"
+                "file": "数学/高等数学/定积分/周期函数.md"
               }
             }
           },
@@ -191,8 +191,28 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
-    "数学/高等数学/泰勒公式.md",
+    "attachments/Pasted image 20230920111626.png",
+    "attachments/Pasted image 20230920111204.png",
+    "数学/高等数学/定积分/定积分的计算.md",
+    "数学/高等数学/定积分/周期函数.md",
+    "数学/高等数学/定积分/变积分限的函数问题.md",
+    "数学/高等数学/定积分/三角函数转换求积分.md",
     "数学/高等数学/证明不等式的两种方法.md",
+    "数学/高等数学/定积分/出现m和M用介值定理.md",
+    "attachments/Pasted image 20230920110331.png",
+    "attachments/Pasted image 20230920110320.png",
+    "attachments/Pasted image 20230920105742.png",
+    "attachments/Pasted image 20230920104727.png",
+    "attachments/Pasted image 20230920104719.png",
+    "attachments/Pasted image 20230920104112.png",
+    "attachments/Pasted image 20230920103319.png",
+    "attachments/Pasted image 20230920102732.png",
+    "数学/高等数学/定积分/区间再现公式.md",
+    "attachments/Pasted image 20230920101717.png",
+    "数学/高等数学/定积分/分部积分.md",
+    "数学/高等数学/定积分/概念性质.md",
+    "JAVA/关于编译的过程.md",
+    "数学/高等数学/泰勒公式.md",
     "数学/线性代数/伴随矩阵.md",
     "数学/线性代数/基础解系.md",
     "数学/线性代数/求特征值特征向量的一些小技巧.md",
@@ -205,28 +225,8 @@
     "招生信息/硕士专业目录查询.md",
     "招生信息/华科预推免.md",
     "Diary/2023-09-19.md",
-    "数学/高等数学/定积分/定积分的计算.md",
-    "attachments/Pasted image 20230919111506.png",
-    "attachments/Pasted image 20230919110123.png",
     "Diary/2023-09-18.md",
     "网络/计算机网络/网络层/移动IP.md",
-    "网络/计算机网络/网络层/IP组播.md",
-    "网络/计算机网络/网络层/广播域.md",
-    "网络/计算机网络/网络层/路由.md",
-    "网络/计算机网络/网络层/子网.md",
-    "网络/计算机网络/网络层/路由汇聚.md",
-    "网络/计算机网络/网络层/路由器.md",
-    "attachments/Pasted image 20230917160732.png",
-    "attachments/Pasted image 20230917160725.png",
-    "attachments/Pasted image 20230917160526.png",
-    "attachments/Pasted image 20230917160518.png",
-    "网络/计算机网络/网络层/RIP.md",
-    "网络/计算机网络/网络层/NAT.md",
-    "网络/计算机网络/网络层/BGP.md",
-    "attachments/Pasted image 20230917140051.png",
-    "attachments/Pasted image 20230917140040.png",
-    "attachments/Pasted image 20230917140034.png",
-    "attachments/Pasted image 20230917134844.png",
     "attachments/操作系统",
     "硬件/计算机组成原理/第二章",
     "数学/高等数学/定积分",
