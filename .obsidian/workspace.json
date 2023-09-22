@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/线性代数/特征值.md",
+                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/线性代数/特征值.md",
+                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/线性代数/特征值.md",
+                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/线性代数/特征值.md"
+                "file": "数学/高等数学/二重积分/二重积分的中值定理.md"
               }
             }
           },
@@ -191,41 +191,44 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
-    "数学/线性代数/矩阵对角化的过程.md",
-    "attachments/Pasted image 20230920194142.png",
-    "attachments/Pasted image 20230920194129.png",
-    "attachments/Pasted image 20230920194118.png",
+    "attachments/Pasted image 20230922095029.png",
+    "attachments/Pasted image 20230922095022.png",
+    "数学/高等数学/二重积分/二重积分的对称性质.md",
+    "attachments/Pasted image 20230922094622.png",
+    "招生信息/2024推免专业查询.md",
+    "attachments/Pasted image 20230921184435.png",
+    "attachments/Pasted image 20230921184310.png",
+    "attachments/Pasted image 20230921184216.png",
+    "数学/高等数学/二重积分/二重积分的中值定理.md",
+    "attachments/Pasted image 20230921183855.png",
+    "数学/高等数学/广义积分/收敛发散.md",
+    "数学/高等数学/二重积分",
+    "attachments/Pasted image 20230921155712.png",
+    "attachments/Pasted image 20230921155636.png",
+    "attachments/Pasted image 20230921154349.png",
+    "attachments/Pasted image 20230921154132.png",
+    "数学/高等数学/泰勒公式.md",
+    "数学/高等数学/广义积分",
+    "数学/高等数学/中值定理/积分中值定理.md",
+    "数学/高等数学/中值定理/罗尔定理常用构造方法.md",
+    "数学/高等数学/牛顿莱布尼兹公式.md",
+    "数学/高等数学/中值定理/拉格朗日中值定理.md",
+    "数学/高等数学/定积分/三角函数转换求积分.md",
+    "数学/高等数学/定积分/区间再现公式.md",
+    "数学/高等数学/定积分/概念性质.md",
+    "数学/高等数学/定积分/周期函数.md",
+    "数学/高等数学/证明不等式的两种方法.md",
     "数学/线性代数/特征值.md",
-    "attachments/Pasted image 20230920192441.png",
-    "attachments/Pasted image 20230920191943.png",
-    "attachments/Pasted image 20230920191935.png",
-    "attachments/Pasted image 20230920191459.png",
-    "attachments/Pasted image 20230920190405.png",
-    "attachments/Pasted image 20230920190355.png",
+    "数学/线性代数/矩阵对角化的过程.md",
     "数学/线性代数/非对称矩阵和实对称矩阵.md",
-    "attachments/Pasted image 20230920172714.png",
     "数学/线性代数/求特征值特征向量的一些小技巧.md",
     "数学/线性代数/向量是否可由向量组线性表出.md",
     "数学/线性代数/向量组、矩阵的等价.md",
     "数学/线性代数/齐次方程组同解的必要条件和充要条件.md",
-    "数学/高等数学/定积分/周期函数.md",
     "数学/高等数学/定积分/定积分的计算.md",
     "数学/高等数学/定积分/变积分限的函数问题.md",
-    "数学/高等数学/定积分/三角函数转换求积分.md",
-    "数学/高等数学/证明不等式的两种方法.md",
     "数学/高等数学/定积分/出现m和M用介值定理.md",
-    "数学/高等数学/定积分/区间再现公式.md",
     "数学/高等数学/定积分/分部积分.md",
-    "数学/高等数学/定积分/概念性质.md",
-    "JAVA/关于编译的过程.md",
-    "数学/高等数学/泰勒公式.md",
-    "数学/线性代数/伴随矩阵.md",
-    "数学/线性代数/基础解系.md",
-    "数学/线性代数/齐次、非齐次方程组的解数.md",
-    "招生信息/武汉理工大学咨询.md",
-    "README.md",
-    "招生信息/华中科技大学咨询.md",
-    "招生信息/院校库.md",
     "attachments/操作系统",
     "硬件/计算机组成原理/第二章",
     "数学/高等数学/定积分",
@@ -235,8 +238,6 @@
     "数学/线性代数/未命名",
     "未命名.canvas",
     "未命名 1.canvas",
-    "attachments/高数",
-    "attachments/线性代数",
-    "数学/概率论"
+    "attachments/高数"
   ]
 }
