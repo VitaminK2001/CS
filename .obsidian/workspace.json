@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
+                "file": "Diary/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
+                "file": "Diary/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/高等数学/二重积分/二重积分的中值定理.md",
+                "file": "Diary/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高等数学/二重积分/二重积分的中值定理.md"
+                "file": "Diary/2023-09-22.md"
               }
             }
           },
@@ -191,6 +191,11 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
+    "数学/高等数学/曲面曲线积分/曲面积分.md",
+    "Diary/2023-09-22.md",
+    "数学/高等数学/曲面曲线积分/曲线积分.md",
+    "attachments/Pasted image 20230922105119.png",
+    "数学/高等数学/二重积分/二重积分的中值定理.md",
     "attachments/Pasted image 20230922095029.png",
     "attachments/Pasted image 20230922095022.png",
     "数学/高等数学/二重积分/二重积分的对称性质.md",
@@ -199,14 +204,11 @@
     "attachments/Pasted image 20230921184435.png",
     "attachments/Pasted image 20230921184310.png",
     "attachments/Pasted image 20230921184216.png",
-    "数学/高等数学/二重积分/二重积分的中值定理.md",
     "attachments/Pasted image 20230921183855.png",
     "数学/高等数学/广义积分/收敛发散.md",
     "数学/高等数学/二重积分",
     "attachments/Pasted image 20230921155712.png",
     "attachments/Pasted image 20230921155636.png",
-    "attachments/Pasted image 20230921154349.png",
-    "attachments/Pasted image 20230921154132.png",
     "数学/高等数学/泰勒公式.md",
     "数学/高等数学/广义积分",
     "数学/高等数学/中值定理/积分中值定理.md",
@@ -227,8 +229,6 @@
     "数学/线性代数/齐次方程组同解的必要条件和充要条件.md",
     "数学/高等数学/定积分/定积分的计算.md",
     "数学/高等数学/定积分/变积分限的函数问题.md",
-    "数学/高等数学/定积分/出现m和M用介值定理.md",
-    "数学/高等数学/定积分/分部积分.md",
     "attachments/操作系统",
     "硬件/计算机组成原理/第二章",
     "数学/高等数学/定积分",
