@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/邀请信.md",
+                "file": "English/建议信.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/邀请信.md",
+                "file": "English/建议信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/邀请信.md",
+                "file": "English/建议信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/邀请信.md"
+                "file": "English/建议信.md"
               }
             }
           },
@@ -191,6 +191,8 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
+    "English/邀请信.md",
+    "English/建议信.md",
     "attachments/Pasted image 20230917103838.png",
     "招生信息/2024推免专业查询.md",
     "招生信息/硕士专业目录查询.md",
@@ -202,7 +204,6 @@
     "招生信息/全国硕士研究生招生网上调剂.md",
     "招生信息/考研统考报名.md",
     "招生信息/拍照要求.md",
-    "English/邀请信.md",
     "English/辞职信.md",
     "English/attachments/ttsmaker-file-2023-9-3-9-32-43.mp3",
     "硬件/操作系统/死锁避免 死锁检测.md",
@@ -232,7 +233,6 @@
     "attachments/Pasted image 20230922105119.png",
     "attachments/Pasted image 20230922095029.png",
     "attachments/Pasted image 20230922095022.png",
-    "attachments/Pasted image 20230922094622.png",
     "数学/高等数学/二重积分",
     "数学/高等数学/广义积分",
     "attachments/操作系统",
