@@ -12,5 +12,8 @@
   "newFileFolderPath": "存放附件的文件夹",
   "attachmentFolderPath": "attachments",
   "showFrontmatter": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "spellcheck": false
 }
