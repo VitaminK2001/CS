@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/建议信.md",
-                "mode": "source",
-                "source": false
+                "file": "数学/高等数学/定积分/分部积分.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5
   },
   "right": {
     "id": "f911e70a239e725c",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/建议信.md",
+                "file": "数学/高等数学/定积分/分部积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/建议信.md",
+                "file": "数学/高等数学/定积分/分部积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/建议信.md"
+                "file": "数学/高等数学/定积分/分部积分.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,9 +191,33 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
-    "English/邀请信.md",
+    "数学/高等数学/2函数极限与连续性/一个极限变为两个要求都存在才能变.md",
+    "数学/高等数学/2函数极限与连续性/1的无穷次方.md",
+    "attachments/截屏2023-10-26 下午8.24.06.png",
+    "attachments/截屏2023-10-26 下午8.20.43.png",
+    "数学/高等数学/1数列极限/求极限.md",
+    "数学/高等数学/2函数极限与连续性",
+    "attachments/截屏2023-10-26 下午8.12.13.png",
+    "attachments/截屏2023-10-26 下午8.01.02.png",
+    "数学/高等数学/1数列极限/n的n次根 = 1.md",
+    "attachments/截屏2023-10-26 下午7.53.46.png",
+    "数学/高等数学/1数列极限/等价代换.md",
+    "attachments/截屏2023-10-26 下午7.50.47.png",
+    "数学/高等数学/1数列极限/极限保号性.md",
+    "数学/高等数学/1数列极限/含（-1）n次方分类讨论.md",
+    "attachments/截屏2023-10-26 下午7.49.57.png",
+    "attachments/截屏2023-10-26 下午7.48.41.png",
+    "attachments/截屏2023-10-26 下午7.47.47.png",
+    "attachments/截屏2023-10-26 下午7.46.37.png",
+    "数学/概率论/正态分布.md",
+    "数学/概率论/概率论与数理统计笔记.md",
+    "English/词汇.md",
+    "数学/高等数学/定积分/变积分限的函数问题.md",
+    "数学/高等数学/1数列极限",
+    "数学/高等数学/定积分/定积分的计算.md",
+    "English/图画作文.md",
     "English/建议信.md",
-    "attachments/Pasted image 20230917103838.png",
+    "English/邀请信.md",
     "招生信息/2024推免专业查询.md",
     "招生信息/硕士专业目录查询.md",
     "招生信息/武汉理工大学咨询.md",
@@ -206,37 +230,13 @@
     "招生信息/拍照要求.md",
     "English/辞职信.md",
     "English/attachments/ttsmaker-file-2023-9-3-9-32-43.mp3",
-    "硬件/操作系统/死锁避免 死锁检测.md",
-    "硬件/操作系统/调度算法/先来先服务算法.md",
-    "Diary/2023-10-03.md",
     "硬件/操作系统/调度算法",
-    "Diary/2023-10-02.md",
-    "attachments/Pasted image 20231002120125.png",
-    "Diary/2023-10-01.md",
     "政治/马原",
-    "Diary/2023-09-30.md",
     "政治",
-    "数学/高等数学/微分方程/一个萝卜一个坑.md",
-    "attachments/Pasted image 20230930181550.png",
-    "attachments/Pasted image 20230930181230.png",
-    "attachments/Pasted image 20230930180903.png",
-    "attachments/Pasted image 20230930180813.png",
-    "招生信息/华中科技大学咨询.md",
-    "招生信息/华科预推免.md",
-    "生源核对信息/未命名.md",
-    "招生信息/报考记录.md",
-    "attachments/Pasted image 20230926111950.png",
     "数学/高等数学/微分方程",
-    "README.md",
-    "数学/高等数学/反三角函数/arcsinx图像.md",
     "数学/高等数学/反三角函数",
-    "attachments/Pasted image 20230922105119.png",
-    "attachments/Pasted image 20230922095029.png",
-    "attachments/Pasted image 20230922095022.png",
     "数学/高等数学/二重积分",
     "数学/高等数学/广义积分",
-    "attachments/操作系统",
-    "硬件/计算机组成原理/第二章",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

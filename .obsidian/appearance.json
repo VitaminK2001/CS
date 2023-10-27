@@ -3,9 +3,9 @@
   "theme": "system",
   "textFontFamily": "LXGW WenKai Mono",
   "monospaceFontFamily": "LXGW WenKai Mono",
-  "baseFontSize": 21,
+  "baseFontSize": 22,
   "translucency": false,
-  "cssTheme": "Everforest",
+  "cssTheme": "",
   "interfaceFontFamily": "LXGW WenKai Mono",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
