@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/高等数学/7一元积分学/换元.md",
+                "file": "政治/简记.md",
                 "mode": "source",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#上层建筑",
+                "query": "tag:#社会主义核心价值观",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/高等数学/7一元积分学/换元.md",
+                "file": "政治/简记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/高等数学/7一元积分学/换元.md",
+                "file": "政治/简记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/高等数学/7一元积分学/换元.md"
+                "file": "政治/简记.md"
               }
             }
           },
@@ -191,13 +191,17 @@
   },
   "active": "e090b1fd01350abf",
   "lastOpenFiles": [
+    "政治/tag1.md",
+    "政治/简记.md",
+    "政治/主义.md",
+    "政治/马原多项选择.md",
+    "数学/高等数学/7一元积分学/换元.md",
     "attachments/截屏2023-10-28 上午11.12.34.png",
     "attachments/截屏2023-10-28 上午11.12.19.png",
     "attachments/截屏2023-10-28 上午11.05.46.png",
     "attachments/截屏2023-10-28 上午11.04.00.png",
     "attachments/截屏2023-10-28 上午10.59.59.png",
     "数学/高等数学/7一元积分学/变限积分.md",
-    "数学/高等数学/7一元积分学/换元.md",
     "attachments/截屏2023-10-28 上午10.58.14.png",
     "attachments/截屏2023-10-28 上午10.54.05.png",
     "attachments/截屏2023-10-28 上午10.50.32.png",
@@ -206,7 +210,6 @@
     "attachments/截屏2023-10-28 上午10.20.27.png",
     "attachments/截屏2023-10-28 上午10.14.05.png",
     "数学/高等数学/7一元积分学/积分号里有导数.md",
-    "attachments/截屏2023-10-28 上午10.01.22.png",
     "数学/高等数学/7一元积分学/概念.md",
     "数学/高等数学/6零点定理和微分不等式/证明不等式先变形.md",
     "数学/高等数学/6.md",
@@ -228,10 +231,7 @@
     "数学/高等数学/4一元函数微分学的几何应用/找拐点.md",
     "数学/高等数学/4一元函数微分学的几何应用/极限保号性判断极值.md",
     "数学/高等数学/4一元函数微分学的几何应用/值域.md",
-    "数学/高等数学/条件极值.md",
     "数学/高等数学/4一元函数微分学的几何应用",
-    "English/图画作文.md",
-    "English/辞职信.md",
     "数学/高等数学/17微分方程",
     "数学/高等数学/3一元函数微分学",
     "数学/高等数学/2函数极限与连续性",
