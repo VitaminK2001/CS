@@ -1,3 +1,6 @@
+---
+color: ""
+---
 这个错误消息表明，在执行 `git pull` 命令时，Git 发现您本地的某些文件（在这种情况下是 `.obsidian/community-plugins.json` 和 `.obsidian/workspace.json`）存在未提交的更改，而这些更改与远程分支上的变更产生了冲突。为了避免数据丢失，Git 拒绝了这次合并操作。
 
 您有几种选项来解决这个问题：
