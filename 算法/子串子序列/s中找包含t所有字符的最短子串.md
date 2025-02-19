@@ -4,7 +4,7 @@
 示例 2：  
 输入：s = “a”, t = “a” 输出：“a”  
 
-<mark style="background: #FFF3A3A6;">滑动窗口</mark>适用于找<mark style="background: #BBFABBA6;">连续</mark>子串
+滑动窗口适用于找连续子串
 
 标准ASCII字符集共128个字符
 
