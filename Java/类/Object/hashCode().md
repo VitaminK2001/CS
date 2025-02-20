@@ -1,2 +1,4 @@
-如果x和y是两个不同的对象，x.hashCode( )与y.hashCode( )基本上不会相同。
-每个对象都有一个默认的散列码，其值为对象的存储地址。
+返回值是int
+
+若a.hashCode()=b.hashCode()
+则equals方法不一定返回true,即可能存在哈希冲突
